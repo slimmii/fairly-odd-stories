@@ -7,7 +7,7 @@
 - **Toon:** grappig en spannend, nooit eng of bloederig. Niemand raakt gewond, niemand wordt vastgebonden. Wat "gevaarlijk" is, gebeurt buiten beeld en wordt met humor gebracht.
 
 **Andere documenten**
-- [`ontwerp/productie.md`](ontwerp/productie.md): assetlijst, ingesproken regels, speelduurtoets en schraplijst, filmpjesbudget, regie van het wauw-moment, art- en audiorichting, planning, systeemschermen en ouderpagina.
+- [`ontwerp/productie.md`](ontwerp/productie.md): technische uitgangspunten (platform, engine, verdienmodel), assetlijst, ingesproken regels en spreeksnelheid, speelduurtoets en schraplijst, filmpjesbudget, regie van het wauw-moment, art- en audiorichting, planning, systeemschermen en ouderpagina.
 - [`ontwerp/seriebijbel.md`](ontwerp/seriebijbel.md): premisse van de reeks, vaste cast, formule per aflevering, boog over de reeks, volgende afleveringen, taalkeuze en woordenlijst, oudertoets en waarden.
 
 ---
@@ -49,12 +49,15 @@ Bij de start vraagt Walter: *"Ben jij een speurneus of een meesterdetective?"* T
 | Wanda aan de voordeur als er iets ontbreekt | noemt wat ontbreekt | *"Walter. Kijk eens in je boekje."* Pas bij de 2e poging noemt ze het. |
 | Roodkapje kijkt naar het mandje (P11) | kijken + *ting* | alleen kijken |
 | Sokkenteller | toont in welke scène er nog een sok ligt | alleen "3/5" |
+| Sok-waarschuwing aan oma's deur (P9) | noemt de scène: *"Bij de beek, denk ik."* | *"Ik voel het in mijn tenen."* |
 
 **Beloning:** wie geen enkele niveau-3-hint gebruikt, krijgt op het einde de **Detectivehoed-sticker** in het boekje (op beide niveaus).
 
 ### Het geheimpje: vijf verdwaalde sokken
 
 Er ligt één sok van Walter per scène. Ze zijn nooit nodig om verder te raken. De eerste komt vanzelf mee uit de zetel en leert de teller aan: *"Die zoek ik al sinds Kerstmis. ...Waar zijn de andere?"* Wie er een mist, hoort hoogstens: *"Ergens ligt nog een sok. Ik voel het in mijn tenen."* Wie alle vijf heeft, krijgt in het slot een **sokkencape** van Grootmoeder (zie *Slot*).
+
+**Geen sok is definitief te missen.** Sok 1 komt vanzelf mee (P1), dus het hol mag achter je dicht. Sok 2 tot 4 liggen in scènes die vrij bereikbaar blijven tot je oma's kamer binnengaat, en vlak vóór die drempel waarschuwt Walter één keer als er nog een sok buiten ligt (zie P9). Sok 5 krijg je gegarandeerd vóór het slot: vind je hem niet zelf onder het bed, dan reikt Grootmoeder hem aan bij de koekjes. Daardoor kan de autosave nooit een sok onbereikbaar maken.
 
 ---
 
@@ -98,10 +101,10 @@ Op een kruispunt in de mist komt hij een meisje met een rode kap tegen dat ontze
 | # | Scène | Doel-speeltijd | Puzzels | Moeilijkheid (1–4) |
 |---|---|---|---|---|
 | 1 | Het Wolvenhol (woonkamer + keuken) | 4:15 | P1, P2, P3, P4 | 1 · 1 · 2 · 2 |
-| 2 | Het Kruispunt in de mist (+ Roodkapje-moment) | 3:10 | P5, P6 | 3 · 2 |
+| 2 | Het Kruispunt in de mist (+ Roodkapje-moment) | 3:15 | P5, P6 | 3 · 2 |
 | 3 | De Beek | 1:20 | P7 | 2 |
 | 4 | Voor het huisje van Grootmoeder | 1:50 | P8, P9 | 2 · 2 |
-| 5 | Binnen bij Grootmoeder (finale) | 3:55 | P10, P11 | **4** · 2 |
+| 5 | Binnen bij Grootmoeder (finale) | 3:50 | P10, P11 | **4** · 2 |
 | | **Totaal** | **± 14:30** (snelle speler ± 11, rondklikker ± 18) | **11 puzzels** | |
 
 Eén denkpiek per scène, met P10 als hoogtepunt en P11 als ontspannen afronding. De opbouw van deze tijden en wat we schrappen als de speeltest uitloopt, staan in [productie.md](ontwerp/productie.md#speelduurtoets).
@@ -129,7 +132,7 @@ Walter laat zijn thee vallen.
 > **Walter** *(schuift heen en weer)*: "Au. En hier zit iets in mijn rug."
 > **Wiebe:** "Papa! Ik wil tekenfilms! Waar is de afstandsbediening?"
 
-**Besturing aan.** In het boekje staan twee doelen: 🍪 **Koekjes voor oma** en 🗺️ **De kaart**, plus het klopsignaal **● ● ⬤** (klein, klein, GROOT; het briefje toont ook het antwoord van oma: **⬤ ● ●**, *"Een echte Grootmoeder klopt altijd terug"*). Wie opnieuw met Wanda praat, krijgt per open doel één korte zin (= hint niveau 1 van dat doel).
+**Besturing aan.** In het boekje staan twee doelen: 🍪 **Koekjes voor oma** en 🗺️ **De kaart**. Het doel 📺 **Tekenfilms voor Wiebe** verschijnt pas als Walter met Wiebe praat (of als het subdoel 🧺 opduikt). Verder staat er het klopsignaal **● ● ⬤** (klein, klein, GROOT; het briefje toont ook het antwoord van oma: **⬤ ● ●**, *"Een echte Grootmoeder klopt altijd terug"*). Wie opnieuw met Wanda praat, krijgt per open doel één korte zin (= hint niveau 1 van dat doel).
 
 Scène 1 bestaat uit **drie kettingen** die in elke volgorde kunnen: Wiebe en zijn helm (P1 → P2), de hete koekjes (P4, die het mandje van P2 nodig heeft) en Wanda's code (P3).
 
@@ -186,6 +189,7 @@ In de verte zie je niets, tot de mist optrekt: dan worden een molenwiek, een blo
 ### Puzzel 5: Borden in de mist
 - Bekijk de paal: *"De borden zijn eraf gewaaid. Elk pad begint bij iets. Wat stond er ook weer op mijn kaart?"*
 - **De kaart** (tik in de inventaris of gebruik op de paal): een close-up met drie paden. **Aan het begin** van elk pad staat het herkenningspunt getekend, **aan het einde** de bestemming: holle boom → molen, Koekjessteen → beek → huisje met rookpluim, paddenstoelen → bloemen. Je leest het als een strip: "waar begin je, waar kom je uit". Er is geen links of rechts nodig en niets moet gedraaid worden.
+- **Het sluippad staat ook op de kaart:** een dun **stippellijntje** van het bloemenveld naar de stapstenen in de beek, met kleine voetjes erbij. Het begint niet bij een herkenningspunt, dus het krijgt geen bord en is nooit een antwoord. Bekijk het: *"Een stippellijntje. Een sluippad voor kinderpootjes. Geen bord nodig."* Zo klopt later alles: Roodkapje blijft op een pad, en een kind dat de kaart heeft leren lezen, ziet waarom ze eerder bij oma is.
 - **Tik een bord, tik een herkenningspunt.** Walter hangt het bord daar en wandelt twee stappen het pad in om te kijken (± 3 s).
   - **Juist:** het bord klikt vast, **een lantaarntje gaat aan** en de mist op dat pad wordt dunner. Molen: *"Klopt. Ik hoor de wieken kraken."* Bloemen: *"Klopt. Het ruikt hier naar lente."* Grootmoeder: *"Klopt. Ik hoor een beek. Net als op de kaart."*
   - **Fout:** Walter komt terug met een bewijsstuk van het pad waar hij wél was. Het bord valt terug.
@@ -212,19 +216,24 @@ Zodra de mist weg is, springt **Roodkapje** achter de boomstronk vandaan.
 > 2. *"Mijn pantoffels zijn heel comfortabel."* → "Waarom heb je comfort nodig? Heb je iets te verbergen?"
 > 3. *"Mag ik ook eens een vraag stellen?"* → "Nee. Waarom wil je een vraag stellen?"
 
-Daarna plant ze haar motief en wil ze mee. **Walter weigert duidelijk:**
+Daarna plant ze haar motief en wil ze mee. **Walter weigert duidelijk**, en Roodkapje trekt zelf de conclusie:
 > **Roodkapje:** "Sinds die rode zakdoek kijkt iedereen raar naar mijn kap. Ik ga met je mee!"
-> **Walter:** "Nee. Je gaat nooit mee met vreemden. Ook niet met lieve wolven in pantoffels."
-> **Roodkapje:** "...Dat zegt mijn mama ook." *(schrijft het op)* "Dan blijf ik hier staan. In de weg."
+> **Walter:** "Nee. Jij kent mij niet. Ik ben een vreemde."
+> **Roodkapje:** "Je hebt pantoffels aan."
+> **Walter:** "Vreemden hebben ook pantoffels."
+> **Roodkapje** *(schrijft)*: "Vreemden. Ook met pantoffels. Niet mee. ...Dat zegt mijn mama ook. Dan blijf ik hier staan. In de weg."
 
 Ze plant zich voor de **Koekjessteen** en loopt **niet** mee. Klik je op het Grootmoederpad: *"Waar ga je naartoe? Waarom loop je zo snel?"*
 
 - **Doel:** Roodkapje iets beters te doen geven.
 - **Bekijk** Roodkapje: *"Ze kijkt steeds naar dat bloemenveld."* Daarna kan je haar vragen: *"Waarom kijk je steeds naar die bloemen?"*
-  → *"Mama zei: pluk bloemen voor oma, maar blijf op het pad. Het bloemenpad ís een pad. Maar ik heb niks om ze in te doen."*
-  Het idee komt dus van haarzelf, en ze blijft op een pad.
-- **Oplossing:** geef het **mandje** aan Roodkapje. Walter haalt eerst de koekjes en de ovenwant eruit en propt ze in zijn cardigan: *"Die zijn voor oma. En die... je weet maar nooit."* Vanaf nu hangt de duim van de ovenwant zichtbaar uit zijn zak. *"Wanda zei koekjes. Niet: mandje."*
-- Geef je het mandje vóór de bloemenvraag: *"Een mandje? Is dit omkoperij? Ik schrijf het op. ...Oh! Voor bloemen voor oma!"* Dat telt ook als oplossing.
+  → *"Mama zei: pluk bloemen voor oma, maar blijf op het pad. Het bloemenpad ís een pad. En het sluippadje ook. Maar ik heb niks om ze in te doen."*
+  Het idee komt dus van haarzelf, en ze blijft op een pad (het stippellijntje op Walters kaart).
+- **Oplossing:** geef het **mandje** aan Roodkapje. Walter haalt eerst de koekjes en de ovenwant eruit en propt ze in zijn cardigan: *"Die zijn voor oma. En die... je weet maar nooit."* Vanaf nu hangt de duim van de ovenwant zichtbaar uit zijn zak.
+  > **Roodkapje:** "Van een vreemde krijg ik niks. ...Maar lenen mag. Ik schrijf het op." *(schrijft)* "Geleend: één mandje. Terug te geven."
+
+  Zo blijft het consistent met de koekjes (die weigert ze, zie *Verkeerde-voorwerp-reacties*): een cadeau neemt ze niet aan, iets lenen schrijft ze op en geeft ze terug (P11).
+- Geef je het mandje vóór de bloemenvraag: *"Een mandje? Is dit omkoperij? Ik schrijf het op. ...Oh! Voor bloemen voor oma! Dan leen ik het."* Dat telt ook als oplossing.
 
 **De vergissing (in-engine, 0:20):**
 > **Roodkapje:** "Dankjewel! En jij? Waar ga jij naartoe met die koekjes?"
@@ -235,14 +244,21 @@ Ze plant zich voor de **Koekjessteen** en loopt **niet** mee. Klik je op het Gro
 > **Roodkapje:** "Een wolf. Bij mijn oma. Niet als ik het kan tegenhouden!" *(ze zoeft het bloemenpad op en grist al rennend bloemen mee)*
 > **Walter:** "Oh nee. Wanda laat me een maand de afwas doen."
 
-### Ondertussen, op het sluippad... *(speelbaar Roodkapje-moment, ± 0:40, staat bovenaan de schraplijst)*
-- Titelkaartje. Je speelt even **Roodkapje**, bij de beek van de andere kant gezien (hergebruik van het beekdecor, andere uitsnede).
-- Ze moet over **drie stapstenen**. Op elke steen zit een dier: een **kikker**, een **eend** en een **slak**. Tik op het dier en Roodkapje doet wat ze het best kan: vragen stellen.
+### Ondertussen, op het sluippad... *(speelbaar Roodkapje-moment, ± 0:45, met één klein denkstapje)*
+- Titelkaartje. Je speelt even **Roodkapje**, bij de beek van de andere kant gezien (hergebruik van het beekdecor, andere uitsnede). Ze komt via het stippellijntje van de kaart.
+- Ze moet over **drie stapstenen**. Op elke steen zit een dier: een **kikker**, een **slak** en een **eend**. Tik op het dier en Roodkapje doet wat ze het best kan: vragen stellen.
   > **Roodkapje:** "Waarom zit jij op mijn steen? Waarom ben je groen? Waarom—" **Kikker:** "Ik ga al. Ik ga al!" *(plons)*
   > **Slak** *(heel traag)*: "Ik... ga... ook..." **Roodkapje:** "Waarom zo traag?" *(de slak gaat sneller, uit pure schaamte)*
-- Na elk dier noteert ze iets: *"Wolf. Pantoffels. Verdacht."*
+- **Het slimme moment: de eend slaapt.** Ze zit op de laatste steen met haar kop onder haar vleugel. Vragen werken niet:
+  > **Roodkapje:** "Waarom slaap je? Waarom nu? Waarom—" **Eend:** *"Zzzz... kwak... zzzz."*
+  > **Roodkapje:** "Vragen werken niet als je slaapt. Genoteerd. Wat heb ik nog meer?"
+
+  Onderaan staat één voorwerpvakje: het **mandje met bloemen**. Tik het mandje, tik de eend: Roodkapje kietelt de eend met een bloem onder haar snavel. *"Ha... ha... HATSJOE!"* De eend niest zichzelf van de steen en vliegt verontwaardigd weg. Roodkapje: *"Een eend die niest. Net als de dader! ...Nee. Te klein."*
+  - De denkstap: haar vaste truc (vragen) werkt hier niet, dus het kind moet iets anders proberen. Wie de foute bloemenpad-tocht van Walter zag (stuifmeel, hatsjoe), heeft de aanwijzing al.
+  - Niet faalbaar: elke extra vraag geeft een ander snurkgeluid. Na twee vergeefse vragen (of 20 s) wiebelt het mandje, op beide hulpniveaus.
 - **Einde:** ze rent naar het huisje, de achterdeur zwaait open en we horen alleen: *"Oma! Er komt een wolf! ...Ik heb een plan."* De deur gaat dicht. Terug naar Walter op het kruispunt.
 - Niet faalbaar, geen timing, overslaanbaar zoals een filmpje. **We tonen de kast, de sleutel en de verkleedpartij niet:** dat blijft de verrassing van P10.
+- Op de schraplijst staat het niet meer bovenaan: eerst gaat het eend-stapje eruit (de eend vliegt dan weg op de eerste vraag), pas helemaal op het einde het hele moment.
 - *Wordt het geschrapt,* dan eindigt het vergissingsfilmpje met een sprint van 0:05.
 
 Na de vergissing kan je het molenpad (*"Kat met laarzen. Nee dank je."*) en het bloemenpad (*"Daar is zij langs. Ik moet naar Grootmoeder."*) niet meer in; het Grootmoederpad is open.
@@ -258,7 +274,8 @@ Na de vergissing kan je het molenpad (*"Kat met laarzen. Nee dank je."*) en het 
 **Decor:** Een snelstromende beek. De **brug** heeft geen planken meer, alleen drie open gaten tussen de palen. **Bever Bert** bouwt een **dam** met... de planken van de brug. Stroomopwaarts liggen piepkleine **stapstenen** met verse bloemblaadjes erop (*"Ze is hier al voorbij."*). Een **vis** kijkt Walter aan.
 
 **Bij aankomst (in het spel, 0:10):**
-> **Walter:** "Wanda had gelijk. Vertel nooit aan vreemden waar je naartoe gaat."
+> **Walter** *(doet zichzelf na)*: "'Naar Grootmoeder, in het huisje midden in het bos!' ...Tegen een vreemde. Met een notitieboekje."
+> **Walter:** "Wanda had gelijk. Zoals altijd."
 > **Walter:** "Ik kan nog terug. Mijn zetel is nog warm."
 > *(Hij haalt Wiebes tekening uit zijn cardigan. "Papa de held". Met cape.)*
 > **Walter:** "...Ach. Die cape staat me eigenlijk wel."
@@ -301,9 +318,11 @@ Bekijk het mandje door de kier: *"Hé... dat lijkt op MIJN mandje."*
 - Klik op de touwtjes zonder want: *"Auw! Doornen! Eerst al de oven en nu dit."* De duim van de ovenwant wiebelt uit Walters zak. (Dat is meteen de hint.)
 - **Stap 1:** gebruik de **ovenwant** op de rozenstruik. Walter kan nu bij de touwtjes.
 - **Stap 2:** volg het juiste touwtje (een eenvoudig lijntjesdoolhof; **gestreept** naar de emmer, **gestippeld** naar het vogelhuisje, **effen** naar het klinkje) en tik op het uiteinde.
-  - Emmer: valt op Walters hoofd. *"Ik zie niks. Wel gezellig."* Tweede keer: *"Nog altijd gezellig."* Derde keer zet hij hem zelf op: *"Ridder Emmer."*
+  - Emmer: valt op Walters hoofd. *"Ik zie niks. Wel gezellig."* Tweede keer: *"Nog altijd gezellig."* Derde keer zet hij hem zelf op: *"Ridder Emmer. Die neem ik mee."* Vanaf dan zit de **emmer** in de inventaris (optioneel, alleen voor grappen; zie *Verkeerde-voorwerp-reacties*).
   - Vogelhuisje: een vogel kijkt boos naar buiten. *"Sorry. Verkeerde bel."*
   - Klinkje: de deur gaat krakend open.
+
+**De drempel (sok-waarschuwing).** Binnen bij oma kan Walter niet meer terug. Ligt er buiten nog een sok (sok 2, 3 of 4), dan stopt hij één keer op de drempel: *"Wacht. Ergens buiten ligt nog een sok."* (Speurneus: *"Bij de beek, denk ik."* · Meesterdetective: *"Ik voel het in mijn tenen."*) *"Niet nodig voor oma. Wel voor mijn tenen."* Twee grote plaatjes: een **sok** (nog even zoeken, Walter stapt terug) en de **deur** (naar binnen). Daarna vraagt hij het niet meer. Wie alle sokken buiten heeft, merkt hier niets.
 
 **Sok 4/5:** in de brievenbus (*"MIJN sok. Hoe?!"*), samen met een folder: *"Kastenverkoop. Nu met slot!"*
 
@@ -331,7 +350,7 @@ Het omgekeerde van de beroemde scène. Deze keer stelt de **wolf** de vragen, en
 > **Walter:** "Ik kom juist bij u om informatie te halen!"
 > **"Grootmoeder":** "...Oh. Dat is vervelend."
 
-**Klik op de kast** (kan altijd): de kast rommelt (*BONK BONK, "Mmmf!"*). "Grootmoeder": *"Dat zijn de muizen. Hele grote muizen. Met een sjaal."* Bij elke volgende keer komt er een langer stuk sjaal onder de deur uit: H… HE… HEL… **HELP**. Walter: *"Hij breit. De kast breit."*
+**Klik op de kast** (kan altijd): je hoort breinaalden tikken en een oma die luid en verstaanbaar moppert, boos en niet bang: *"Deze kast ruikt naar mottenballen!"* "Grootmoeder": *"Dat zijn de muizen. Hele grote muizen. Met een sjaal."* Uit de kast: *"Muizen?! Ik ben geen muis!"* Bij elke volgende keer komt er een langer stuk sjaal onder de deur uit (H… HE… HEL… **HELP**) en een nieuwe mopperzin (*"Ik zit op mijn bolletje wol."* / *"Een kwartier, zei ze. Ik tel mee!"*). Walter: *"Hij breit. De kast breit."* De kast noemt nooit de naam van het meisje: dat zou de ontmaskering verklappen.
 
 **De vergelijking.** Bekijk een detail. Verschilt het met de foto, dan stelt Walter meteen de vraag en antwoordt zij in één zin. Klopt het wél met de foto, dan zegt Walter dat (zo leert het kind dat niet elk detail bewijs is).
 
@@ -342,13 +361,19 @@ Het omgekeerde van de beroemde scène. Deze keer stelt de **wolf** de vragen, en
 | **Voeten** | kleine voetjes onder het deken uit, rode schoentjes met strikje aan | grote voeten in sloffen | *"Grootmoeder, wat heb jij kleine voetjes!"* | "Om... sneller te breien?" |
 | **Mandje** | Walters eigen mandje, vol bloemen | — (Walter herkent het) | *"Grootmoeder, wat heb jij een bekend mandje!"* | "Er zijn heel veel mandjes." *(Walters eigen smoes!)* |
 | Pruik | grijze krullen | grijze krullen | — | *"Klopt met de foto... denk ik."* |
-| Sloffen naast het bed | oma's sloffen, leeg | sloffen | — | *"Oma's sloffen. Kloppen. Maar waarom draagt ze ze niet?"* |
+| Sloffen naast het bed | oma's sloffen, leeg | sloffen | — | *"Oma's sloffen. Klopt met de foto. Zetelscore voor sloffen: negen."* |
 | Breiwerk | breinaalden | breinaalden | — | *"Klopt met de foto."* |
-| **Rood puntje** | rood puntje met kwastje onder de muts | geen kap | *"Grootmoeder, wat heb jij een... RODE KAP onder je muts!"* | *(start de beschuldiging)* |
+| **Rood puntje** | rood puntje met kwastje onder de muts | geen kap | *"Grootmoeder, wat heb jij een... rood puntje met een kwastje onder je muts!"* | *"Dat is... mode."* *(start de beschuldiging)* |
 
 - De vier eerste vragen mogen in elke volgorde.
 - De **rode-kap-vraag** komt pas na **minstens twee** gestelde vragen. Bekijk je het puntje eerder: *"Rood. Met een kwastje. Waar heb ik dat nog gezien?"* De vraag wordt dan klaargezet en Walter stelt ze vanzelf zodra er twee andere gesteld zijn.
-- **De beschuldiging:** een scherm *"Wie ben jij echt?"* met vier portretten: Roodkapje, Bever Bert, Inspecteur Das en een muis. Fout kiezen is een grap (*"Bert? Die heeft geen nachtmuts. Denk ik."* / *"Das? Die weet niet eens wat een zakdoek is."* / *"Een muis? ...Met een sjaal?"*) en je kiest opnieuw.
+- **De beschuldiging:** een scherm *"Wie ben jij echt?"* met vier portretten. Elk portret past bij **een deel** van het bewijs, maar maar één past bij **alles**:
+  - **Uil Ursula:** grote ogen (net als achter die bril).
+  - **Een muis:** kleine handjes en kleine voetjes (en "hele grote muizen" in de kast).
+  - **Inspecteur Das:** schrijft alles op met een potlood, en heeft een rode zakdoek.
+  - **Roodkapje:** klein handje met potlood, kleine voetjes met rode schoentjes, en een rood puntje met kwastje.
+
+  Fout kiezen is een grap die meteen het bewijs nakijkt: wat klopt, en wat niet. *"Ursula heeft wel grote ogen. Maar vleugels, geen handjes."* / *"Kleine voetjes, ja. Maar een muis met rode schoentjes? Met een strikje?"* / *"Das schrijft ook alles op. Maar Das heeft geen kwastje. En hij zit op tv."* Je kiest opnieuw. Zo is het geen "duh"-keuze meer, maar een kleine afweging: wie past bij alle details samen?
 
 **De ontmaskering (in-engine, 0:25; begin van het wauw-moment, shotlist in [productie.md](ontwerp/productie.md#wauw-moment)):**
 > **Walter:** "Jij bent... ROODKAPJE!"
@@ -359,30 +384,32 @@ Het omgekeerde van de beroemde scène. Deze keer stelt de **wolf** de vragen, en
 > **Roodkapje:** "Ik dacht dat jij de dader was. Iedereen denkt dat ik het ben."
 > **Walter:** "Ik ben de dader niet. Ik ben gewoon Walter. Ik heb pantoffels aan."
 > **Roodkapje:** "...Dat is eigenlijk een heel goed alibi."
-> *(Uit de kast: BONK! "Mmmf! Ik zei toch dat die wolf oké is!")*
+> *(Uit de kast, luid en duidelijk:)* "Roodkapje! Ik zei toch dat die wolf oké is! En deze kast ruikt naar mottenballen!"
 > **Walter:** "Waar is de sleutel?"
 > **Roodkapje:** "Wie zegt dat er een sleutel is? Wat is een sleutel eigenlijk?"
 
 ### Puzzel 11: Grootmoeder bevrijden
 - Roodkapje kijkt de hele tijd "toevallig" naar het **mandje** (op Speurneus met een klein *ting*).
-- **Stap 1:** klik op het **mandje**. Walter haalt de bloemen eruit en vindt de **sleutel** tussen de stelen. *"Dat is MIJN mandje trouwens."* Hij neemt het terug. Roodkapje: *"Ik moest hem ergens verstoppen. Mijn kap heeft geen zakken."* (Vóór de ontmaskering: *"Afblijven! Dat zijn... oma-bloemen."*)
+- **Stap 1:** klik op het **mandje**. Walter haalt de bloemen eruit en vindt de **sleutel** tussen de stelen. *"Dat is MIJN mandje trouwens."* Roodkapje: *"Geleend! Het staat in mijn boekje. Hier, terug."* Ze streept het door. *"En de sleutel moest ergens. Mijn kap heeft geen zakken."* (Vóór de ontmaskering: *"Afblijven! Dat zijn... oma-bloemen."*)
 - **Stap 2:** gebruik de **sleutel** op de **kast**. Het wauw-moment (0:10): de sjaal wordt de kast in gezogen, het slot klikt drie keer in het ritme ⬤ ● ●, de deuren zwaaien open in een wolk breiwol, en Grootmoeder stapt eruit in spionnenpose, met zonnebril, terwijl de sjaal H-E-L-P over het hele scherm ontrolt.
   > **Grootmoeder:** "Een kwartier. Ik zit al een KWARTIER in een kast."
-  > **Grootmoeder:** "Verstoppen was mijn keuze, kind. De sleutel omdraaien was de jouwe."
-  > **Roodkapje:** "Het was voor je eigen bestwil!"
-  > **Grootmoeder:** "Je sluit nooit iemand op. Als je bang bent, haal je een grote mens."
-  > **Roodkapje** *(schrijft, klein stemmetje)*: "Nooit... iemand... opsluiten. Onderstreept. Sorry oma. Sorry wolf."
-- **Afsluiter:** Grootmoeder zwijgt als een kussen. *"Ik praat met niemand."* Geef haar de **koekjes**.
+  > **Roodkapje:** "Ik was bang! Ik wou je beschermen!"
+  > **Grootmoeder:** "Verstoppen was mijn idee. Maar wie beschermt mij tegen jouw sleutel?"
+  > **Roodkapje** *(bladert in haar boekje, klein stemmetje)*: "...Als je bang bent, haal je een grote mens. Je steekt de grote mens niet in de kast." *(kijkt naar oma)* "Oei. Sorry oma. Sorry wolf."
+  > **Grootmoeder:** "Genoteerd?" **Roodkapje:** "Onderstreept."
+
+  Niemand houdt een preek: Roodkapje vindt de regel zelf terug in haar eigen boekje, en de grap zit in de vraag van oma.
+- **Afsluiter:** over de wolven zwijgt Grootmoeder als een kussen. *"Over kasten praat ik. Over wolven niet. Spionnengeheim."* Geef haar de **koekjes**.
   > **Grootmoeder:** "...Zijn die van Wanda? *Smak.* Sorry is goed. Koekjes zijn beter. Oké, ik praat."
 
-**Sok 5/5:** na de ontmaskering kan je onder het bed kijken. Grootmoeder: *"Die lag daar al toen ik terugkwam van mijn laatste missie."*
+  Heeft Walter sok 5 nog niet, dan haalt Grootmoeder hem hier onder het bed vandaan, nog kauwend: *"En neem die sok mee. Die lag daar al sinds mijn laatste missie."* (Zo is sok 5 gegarandeerd vóór het slot.)
 
-### Slot (in-engine, 0:55)
-> **Grootmoeder:** "Die zakdoek is niet van jou, kind. Het is een jagerszakdoek."
-> **Roodkapje:** "Ik wist het! ...Ik wist het niet. Maar nu wel!"
-> **Grootmoeder:** "De Jager is gek op wolven. Hij bouwt een Griezelmuseum."
-> **Walter:** "Maar wolven zijn niet eng! Ik heb een cardigan aan!"
-> **Grootmoeder:** "Daarom moeten ze daar grommen. Ze zijn veilig. Maar ze vervelen zich suf."
+**Sok 5/5:** na de ontmaskering kan je zelf onder het bed kijken. Grootmoeder: *"Die lag daar al toen ik terugkwam van mijn laatste missie."* Wie dat niet doet, krijgt hem van oma bij de koekjes (zie hierboven). Er is dus geen manier om sok 5 te missen.
+
+### Slot (in-engine, 0:45)
+*(Korter dan in ronde 2: minder praten, sneller naar De Jager. Lotte: "Ik wil dan gewoon de Jager zien.")*
+> **Grootmoeder:** "Die zakdoek is niet van jou, kind. Hij is van De Jager."
+> **Grootmoeder:** "Hij zet wolven in zijn Griezelmuseum. Veilig. Maar ze moeten de hele dag grommen."
 > *(Achter het raam: een reusachtig silhouet. Een hoed zo hoog als een schoorsteen. Het snuift.)*
 > **De Jager:** "Ha... ha... HAAA-TSJOE!"
 > *(De hoed vliegt weg. Eronder: een piepklein kaal hoofdje met een snorretje. Hij zet de hoed snel terug.)*
@@ -393,7 +420,7 @@ Het omgekeerde van de beroemde scène. Deze keer stelt de **wolf** de vragen, en
 > **Walter:** "...Ik wil naar mijn zetel."
 > *(De draaitelefoon rinkelt. Grootmoeder: "Voor jou.")*
 > **Wiebe** *(in een inzetje)*: "Papa! Ben je al een held? Heb je met vreemden gepraat?"
-> **Walter:** "Ja. Met één. Het is goed afgelopen." **Wanda** *(achtergrond)*: "En breng de ovenwant terug!"
+> **Walter:** "Ja. Met één. Het is goed afgelopen."
 > **Walter** *(kijkt naar Wiebes tekening)*: "Mijn zetel loopt niet weg. Die vijf wolven wel."
 > **Roodkapje:** "Partners?" **Walter:** "Absoluut niet." **Roodkapje:** "Waarom niet?"
 > **Walter:** "...Eerst vraag je het aan je oma."
@@ -417,14 +444,15 @@ Er is iets gewonnen vóór de cliffhanger: oma is vrij (en heeft koekjes), Roodk
 | Briefje met klopsignaal | Wanda (opening) | Voordeur (P8) | Nooit |
 | Afstandsbediening | Zetel (P1) | Wiebe (P2) | Ja, bij Wiebe (blijft in het hol) |
 | Tekening van Wiebe | Wiebe (P2) | Verhaal: beek en slot (geen puzzel) | Nooit |
-| Mandje | Wiebe (P2) | Koekjes inpakken (P4), Roodkapje (P6); terug in P11 | Bij P6 naar Roodkapje; terug bij P11 |
+| Mandje | Wiebe (P2) | Koekjes inpakken (P4), Roodkapje (P6, geleend), eend (Roodkapje-moment); terug in P11 | Bij P6 uitgeleend aan Roodkapje; terug bij P11 |
 | Ovenwant | Haakje in de keuken (P4) | Oven (P4), rozenstruik (P9) | Nooit: eerst los, dan in het mandje (P4), vanaf P6 in Walters zak |
 | Koekjes (3) | Oven (P4) | Grootmoeder (P11) | Pas bij Grootmoeder; Wiebe eet er hoogstens één |
 | Kaart van het bos | Lade (P3) | Herkenningspunten (P5) | Nooit |
 | Foto van Grootmoeder | Lade (P3), in het boekje | Vergelijken (P10) | Nooit |
 | Losse plank | Kruispunt, zelf oprapen | Bert (P7) | Ja, bij Bert |
 | Sleutel | Mandje met bloemen (P11) | Kast (P11) | Ja, in het slot |
-| Sokken (0–5) | Eén per scène | Sokkencape in het slot (optioneel) | Pas in het slot |
+| Sokken (0–5) | Eén per scène (sok 5 gegarandeerd, zie P11) | Sokkencape in het slot (optioneel) | Pas in het slot |
+| Emmer (optioneel) | Derde keer het emmer-touwtje (P9) | Alleen grappen (Walter, "grootmoeder") | Nooit |
 
 ## Puzzelafhankelijkheden
 
@@ -444,17 +472,18 @@ flowchart TD
     MIST --> P6a["P6: Vragenspel, Walter weigert, ze blokkeert het pad"]
     P6a --> P6b["P6: Mandje aan Roodkapje (koekjes + want in zak)"]
     P6b --> FILM["Filmpje: de vergissing"]
-    FILM --> RKM["Roodkapje-moment (overslaanbaar)"]
+    FILM --> RKM["Roodkapje-moment: 3 stapstenen, eend kietelen (overslaanbaar)"]
     RKM --> P7["P7: Plank aan Bert + planken leggen"]
     PLANK --> P7
     P7 --> P8["P8: Klopsignaal → kast klopt terug → uitgenodigd"]
     P8 --> P9["P9: Ovenwant op rozen + juiste touwtje"]
     P6b -. ovenwant in zak .-> P9
-    P9 --> P10a["P10: Vergelijken met foto, ≥ 2 vragen"]
+    P9 --> SOCKCHK{"Drempel: sok 2–4 buiten? Walter waarschuwt één keer"}
+    SOCKCHK --> P10a["P10: Vergelijken met foto, ≥ 2 vragen"]
     P3 -. foto .-> P10a
     P10a --> P10b["Rode-kap-vraag → beschuldiging → ontmaskering"]
     P10b --> P11a["P11: Mandje → sleutel → kast (wauw)"]
-    P11a --> P11b["Koekjes aan oma"]
+    P11a --> P11b["Koekjes aan oma (+ sok 5 als die nog ontbrak)"]
     P6b -. koekjes in zak .-> P11b
     P11b --> END["Slot: De Jager aan het raam"]
 ```
@@ -470,14 +499,15 @@ Het boekje leest rechtstreeks van deze flags: elk doel is een `goal` met een con
 | **Algemeen** | | |
 | `HELP_LEVEL` ∈ {SPEURNEUS, MEESTER} | startscherm, pauzemenu | hinttimers, wiebelen, Wanda aan de deur, plankglinster, P5-pictogram, P11-ting, sokkenteller |
 | `HINT3_USED` | eerste niveau-3-hint | einde: Detectivehoed-sticker |
-| `SOCK_1..5` → `SOCKS` (0–5) | zetel (P1), uilengat, vis, brievenbus, onder het bed | boekjesteller, slot (cape bij 5) |
+| `SOCK_1..5` → `SOCKS` (0–5) | zetel (P1), uilengat, vis, brievenbus, onder het bed; `SOCK_5` ook automatisch bij `FINALE` | boekjesteller, drempel, slot (cape bij 5) |
 | `TRACKER_ON` (instelling) | menu | spoorkaartje |
 | **Scène 1** | | |
-| `INTRO_DONE` | einde opening | besturing aan; doelen KOEKJES, KAART, WIEBE; `NOTE` = WALTER |
+| `INTRO_DONE` | einde opening | besturing aan; doelen KOEKJES, KAART; `NOTE` = WALTER |
+| `WIEBE_ASKED` | eerste keer praten met Wiebe, of subdoel MANDJE verschijnt | doel WIEBE in het boekje |
 | `NOTE` ∈ {—, WALTER} | `INTRO_DONE` | P8 (briefje op deur), boekje |
 | `SOFA_LOOKED` | zetel bekijken | graven mogelijk |
 | `REMOTE` ∈ {ZETEL, WALTER, WIEBE} | graven / geven | P2, tv-staat (tekenfilm als WIEBE) |
-| `BASKET` ∈ {WIEBE, WALTER, RK} | P2 → WALTER; P6 → RK; P11 → WALTER | P4 stap 2, P6, P10 (mandje-detail), P11 |
+| `BASKET` ∈ {WIEBE, WALTER, RK} | P2 → WALTER; P6 → RK (geleend); P11 → WALTER | P4 stap 2, P6, Roodkapje-moment, P10 (mandje-detail), P11 |
 | `HAS_DRAWING` | P2 | aankomst beek, slot |
 | `MITT` ∈ {HAAK, WALTER, MANDJE, ZAK} | oppakken; inpakken (P4); P6 → ZAK | oven (P4), rozen (P9), zak-sprite |
 | `TRAY_OUT` | ovenwant op oven (vereist `MITT`=WALTER) | subdoel "iets om ze in te doen" (als `BASKET`≠WALTER), P4 stap 2 |
@@ -497,7 +527,8 @@ Het boekje leest rechtstreeks van deze flags: elk doel is een `goal` met een con
 | `RK_LOOKED` | Roodkapje bekijken | dialoogoptie "bloemen", hint 2 |
 | `BASKET_GIVEN_RK` | mandje → Roodkapje (vereist `RK_BLOCKING` & `BASKET_PACKED`) → `BASKET`=RK, `MITT`=ZAK | vergissingsfilmpje |
 | `PATH_GRANNY_OPEN` | einde vergissing | pad naar de beek, molen- en bloemenpad dicht, spoorkaartje aan |
-| `RK_STONES` (0–3) → `RK_MOMENT_DONE` | Roodkapje-moment (of overslaan) | terug naar Walter |
+| `RK_STONES` (0–3) → `RK_MOMENT_DONE` | Roodkapje-moment (of overslaan); steen 3 = mandje op de eend | terug naar Walter |
+| `DUCK_ASKS` (0–2) | vraag aan de slapende eend | mandje wiebelt bij 2 (of na 20 s) |
 | **Scène 3** | | |
 | `DOUBT_SEEN` | aankomst beek | eenmalig twijfelmoment |
 | `FISH_CLICKS` (0–3) | vis aanklikken | sok 3 bij 3 |
@@ -506,19 +537,20 @@ Het boekje leest rechtstreeks van deze flags: elk doel is een `goal` met een con
 | **Scène 4** | | |
 | `INVITED` | juist klopsignaal (+ terugklopje) | touwtjes trekken mogelijk |
 | `ROSES_OPEN` | ovenwant op rozen (vereist `MITT`=ZAK) | touwtjesdoolhof |
-| `BUCKET_FALLS` (0–3) | emmer-touwtje | emmer-grapvarianten |
-| `DOOR_OPEN` | effen touwtje (vereist `INVITED` & `ROSES_OPEN`) | binnen |
+| `BUCKET_FALLS` (0–3) → `HAS_BUCKET` | emmer-touwtje; bij 3 neemt Walter hem mee | emmer-grapvarianten, emmer-reacties |
+| `DOOR_OPEN` | effen touwtje (vereist `INVITED` & `ROSES_OPEN`) | drempel |
+| `SOCK_WARNED` | eerste klik op de open deur terwijl `SOCK_2..4` niet allemaal gevonden zijn | drempelkeuze sok / deur (één keer) |
 | **Scène 5** | | |
 | `ASKED_GLASSES` / `_HAND` / `_FEET` / `_BASKET` → `Q_ASKED` (0–4) | detail bekijken = vraag gesteld | rode-kap-vraag |
 | `SEEN_TASSEL` | rood puntje bekijken | rode-kap-vraag |
 | `ASKED_CAP` | automatisch als `SEEN_TASSEL` & `Q_ASKED` ≥ 2 | beschuldigingsscherm |
-| `UNMASKED` | juiste portret | ontmaskeringsfilmpje, mandje doorzoekbaar, sok 5 |
+| `UNMASKED` | juiste portret | ontmaskeringsfilmpje, mandje doorzoekbaar, sok 5 onder het bed |
 | `CLOSET_LOOKS` (0–4) | kast aanklikken | lengte HELP-sjaal |
 | `HAS_KEY` | mandje doorzoeken (vereist `UNMASKED`) → `BASKET`=WALTER | kast |
 | `GRANNY_FREE` | sleutel op kast → `HAS_KEY`=false | wauw-moment, oudertoets-regels, koekjes geven |
-| `FINALE` | koekjes → oma (vereist `GRANNY_FREE` & `COOKIES` ≥ 1) | slot |
+| `FINALE` | koekjes → oma (vereist `GRANNY_FREE` & `COOKIES` ≥ 1); zet `SOCK_5` als die nog ontbrak | slot |
 
-**Boekje-doelen (16):** KOEKJES (+ subdoel MANDJE), KAART, WIEBE, VERTREK · BORDEN, ROODKAPJE, HOUT (verschijnt bij Bert) · BRUG · KLOPPEN, TOUWTJE · VERGELIJKEN, WIE_BEN_JIJ, SLEUTEL, KAST, KOEKJES_OMA.
+**Boekje-doelen (16):** KOEKJES (+ subdoel MANDJE), KAART, WIEBE (verschijnt bij `WIEBE_ASKED`), VERTREK · BORDEN, ROODKAPJE, HOUT (verschijnt bij Bert) · BRUG · KLOPPEN, TOUWTJE · VERGELIJKEN, WIE_BEN_JIJ, SLEUTEL, KAST, KOEKJES_OMA. Bij de start staan er alleen KOEKJES en KAART; de rest verschijnt pas na ontdekking. Het Roodkapje-moment heeft geen boekje-doel (het helpt zichzelf: het mandje wiebelt).
 
 ## Softlock-preventie
 
@@ -537,9 +569,14 @@ Het boekje leest rechtstreeks van deze flags: elk doel is een `goal` met een con
 | Rode puntje als eerste bekeken | finale te vroeg voorbij | De vraag wordt alleen klaargezet; komt na ≥ 2 andere vragen. |
 | Mandje aanklikken vóór de ontmaskering | sleutel te vroeg | *"Afblijven! Oma-bloemen."* Bekijken telt wel als aanwijzing. |
 | Weggaan uit oma's kamer | P10 onderbroken | *"Ik ga niet weg zonder antwoorden."* Niets buiten is nog nodig. |
+| Sok 2–4 nog buiten bij het binnengaan | verzamelaar mist de cape | Eén waarschuwing op de drempel met de keuze sok / deur (zie P9). |
+| Koekjes geven vóór sok 5 | cape onbereikbaar | Oma reikt sok 5 zelf aan bij de koekjes. |
+| Eend in het Roodkapje-moment | kind blijft vragen stellen | Na 2 vragen of 20 s wiebelt het mandje (beide hulpniveaus). |
 | Fout portret, klopje, touwtje, schijf, plank | frustratie | Grap, onbeperkt opnieuw, geen straf. |
 
-Het hol is na vertrek niet meer bereikbaar: briefje, kaart, foto, tekening, mandje met koekjes en ovenwant zijn dan zeker mee.
+Het hol is na vertrek niet meer bereikbaar: briefje, kaart, foto, tekening, mandje met koekjes, ovenwant én sok 1 zijn dan zeker mee.
+
+**Opslaan en sokken:** de autosave (na elke puzzel en scènewissel) kan nooit een sok onbereikbaar maken. Sok 1 komt automatisch, sok 2–4 blijven bereikbaar tot de drempel van oma's kamer (en daar waarschuwt Walter vóór de scènewissel wordt opgeslagen), sok 5 is gegarandeerd. De keuze op de drempel wordt pas opgeslagen nadat het kind gekozen heeft.
 
 ## Verplichte verkeerde-voorwerp-reacties
 
@@ -567,6 +604,8 @@ Elk voorwerp en personage heeft een standaardzin (*"Dat gaat 'm niet worden."*).
 | Briefje → Bert | Bert klopt het op de dam: *"Lekkere beat, maat."* |
 | Tekening → iemand | *"Die geef ik aan niemand."* Bekijken in een latere scène: telkens een andere zin (*"Die cape is echt mijn kleur."*). |
 | Sleutel → Roodkapje | *"Nooit gezien. Wat is een sleutel?"* |
+| Emmer → "grootmoeder" (vóór de ontmaskering) | Ze kijkt erin, dan naar Walter: *"Een emmer? Voor oma? Waarom?"* *(schrijft)* *"Wolf. Deelt emmers uit. Héél verdacht."* Ze geeft hem terug. |
+| Emmer → Walter | *"Ridder Emmer, meldt zich."* (hergebruik van de emmer-op-hoofd-animatie) |
 | Touwtjes zonder want | *"Auw! Eerst al de oven en nu dit."* (hint) |
 
 ## Hints op drie niveaus (de lastigste doelen)
@@ -583,7 +622,7 @@ Elk doel heeft drie hints; hier de lastigste. Niveau 2 toont in het boekje een p
 | **P8** klopsignaal | *"Wanda klopte op mijn hoofd. Hoe ging dat ook weer?"* | *"Twee kleine klopjes en één grote. Kleine poot, grote vuist."* | *"Klein, klein, GROOT."* (de knoppen lichten in volgorde op) |
 | **P9** touwtje | *"Trek maar aan het touwtje, zei ze. Maar die rozen prikken."* | *"Wat beschermt mijn poten? Het zit in mijn zak."* · Na de want: *"Welk touwtje gaat naar de deur?"* | *"Ovenwant op de rozen. Dan het effen touwtje naar het klinkje."* |
 | **P10** vergelijken | *"Deze grootmoeder ziet er... anders uit. Had ik geen foto?"* | *"Wat is anders dan op de foto? Kijk naar haar ogen, haar handjes, haar voeten."* (het hoekkader licht op bij ogen, handen en voeten) | *"Een dikke bril, een piepklein handje, rode schoentjes. En MIJN mandje!"* (details pinken) |
-| **P10** wie ben jij | *"Wie heeft er een rode kap met een kwastje?"* | *"Dat meisje van het kruispunt. Met al die vragen."* | *"Dat is Roodkapje!"* (portret licht op) |
+| **P10** wie ben jij | *"Wie past bij álles? Kleine handjes, kleine voetjes, en dat rode puntje?"* | *"Een rood puntje met een kwastje, een potlood... Dat meisje van het kruispunt?"* | *"Dat is Roodkapje!"* (portret licht op) |
 
 ## Toegankelijkheid
 
@@ -595,7 +634,7 @@ Elk doel heeft drie hints; hier de lastigste. Niveau 2 toont in het boekje een p
 | **Motoriek / tablet** | Tik-tik als alternatief voor slepen. Tikzones minstens ± 1,5 cm. P8 zonder timing of drukkracht. Borden (P5), schijven (P3) en planken (P7) werken met tikken. P9: tik op het uiteinde volstaat. |
 | **Gehoor** | Ondertitels altijd aan, grootte instelbaar. Klop- en kastgeluiden krijgen een visuele golf; trilling op tablet. Het terugklopje van oma (P8) verschijnt ook als patroon op het scherm. |
 | **Werkgeheugen** | Het boekje bewaart klopsignaal, foto, open doelen en sokken. De foto staat in P10 permanent in beeld. De ovenwant is vanaf P6 zichtbaar in Walters zak. |
-| **Tempo en prikkels** | Spreeksnelheid instelbaar (langzaam / normaal / vlot). Geen flitsende effecten: de mist trekt geleidelijk op, het wauw-moment heeft geen lichtflits. Optie "minder beweging" zet camera-schok en snelle push-ins uit. Spoorkaartje uitzetbaar, zodat de race geen stress geeft. |
+| **Tempo en prikkels** | Spreeksnelheid instelbaar (langzaam / normaal / vlot): langere of kortere pauzes tussen de zinnen, de stemmen zelf worden nooit versneld of vertraagd (zie [productie](ontwerp/productie.md#spreeksnelheid)). Geen flitsende effecten: de mist trekt geleidelijk op, het wauw-moment heeft geen lichtflits. Optie "minder beweging" zet camera-schok en snelle push-ins uit. Spoorkaartje uitzetbaar, zodat de race geen stress geeft. |
 
 ## Ontwerpregels voor de puzzels (8 jaar)
 
@@ -615,12 +654,30 @@ Elk doel heeft drie hints; hier de lastigste. Niveau 2 toont in het boekje een p
 
 ---
 
+## Wijzigingslog ronde 3 (polijstronde)
+
+Doel: de resterende punten van de product owner (8/10) en Lotte (8/10) gericht oplossen, zonder nieuwe scènes of puzzels. Speelduur blijft **± 14:30**.
+
+- **Sokken nooit definitief te missen** *(PO 1):* waarschuwing op de drempel van oma's kamer (keuze sok / deur, één keer); sok 5 reikt oma zelf aan bij de koekjes als je hem niet vond; save-gedrag nagekeken (sok 1 automatisch, de drempelkeuze wordt pas na de keuze opgeslagen).
+- **Lenen, geen cadeau** *(PO 2):* Roodkapje weigert de koekjes van een vreemde, maar *leent* het mandje en schrijft het op; in P11 geeft ze het terug en streept het door.
+- **Sluippad op de kaart** *(PO 3):* stippellijntje van het bloemenveld naar de stapstenen, zonder herkenningspunt (dus geen antwoord bij P5). "Blijf op het pad" klopt nu met wat het kind ziet.
+- **Documenten gelijkgetrokken** *(PO 4):* bij de start twee doelen (WIEBE verschijnt pas bij ontdekking, nieuwe flag `WIEBE_ASKED`); de opening is wél een in-engine scène van 0:25 (log ronde 2 rechtgezet); Walters animaties opnieuw geteld (18 + 6 overlays, met graven, zetelplof, detectivepose en natte pantoffels); de eend kreeg een rol. Verder: de sloffen zijn nu een echte afleider, en "zwijgt als een kussen" gaat alleen nog over de wolven.
+- **Spreeksnelheid en techniek** *(PO 5, 6, 7, 9):* opnemen op natuurlijk tempo, instelbare pauzes tussen zinnen, nooit time-stretch. Nieuwe sectie *Technische uitgangspunten* (tablet + pc, Godot 4 als advies met spike, premium zonder advertenties of in-app aankopen, open beslispunten). UI-ontwerp en QA staan nu in team en planning. Sokkencape: geen state over afleveringen heen (seriebijbel).
+- **Kast-toon** *(PO 10):* geen "Mmmf!" meer. Oma moppert luid en verstaanbaar (*"Deze kast ruikt naar mottenballen!"*, *"Muizen?! Ik ben geen muis!"*) en je hoort haar breien. Ze is boos, niet bang.
+- **Roodkapje-moment met een slim moment** *(Lotte):* de eend slaapt, vragen werken niet, dus kietelt Roodkapje haar met een bloem (*HATSJOE*). +0:05, niet faalbaar. Het moment staat niet meer bovenaan de schraplijst.
+- **Minder les, zelfde waarden** *(Lotte, ouders):* de regels komen uit grappige dialoog: Walter is "een vreemde, ook met pantoffels" en Roodkapje trekt zelf de conclusie; aan de beek doet Walter zichzelf na; na de kast vindt Roodkapje de regel terug in haar eigen boekje (*"Je steekt de grote mens niet in de kast"*). Voluit staan de waarden op de ouderpagina.
+- **"Wie ben jij echt?" minder voor de hand liggend** *(Lotte):* Ursula (grote ogen), een muis (kleine handjes en voetjes), Das (potlood, rode zakdoek) en Roodkapje passen elk bij een deel van het bewijs; alleen Roodkapje past bij alles. Een foute keuze kijkt het bewijs na. De vraag zegt niet meer letterlijk "rode kap".
+- **Emmer** *(Lotte):* na de derde keer neemt Walter de emmer mee; die kan je aan de "grootmoeder" geven (*"Wolf. Deelt emmers uit. Héél verdacht."*).
+- **Tijd:** scène 2 +0:05 (eend), finale −0:05 (slot van 0:55 naar 0:45, op Lottes vraag "op het einde praten ze heel lang"). Filmpjes nu 2:45.
+
+**Bewust NIET gedaan:** iets speelbaars in het museum en Wiebe in beeld (Lottes wensen; scope, en ze passen beter in een volgende aflevering); de kast noemt Roodkapje niet bij naam vóór de ontmaskering (dat zou P10 verklappen).
+
 ## Wijzigingslog ronde 2
 
 Doel: de feedback van de product owner (7/10) en Lotte, 9 jaar (7/10), overtuigend oplossen.
 
 **Scène 1: sneller en niet meer "opruimerig"** *(Lotte: begin te lang, opruimen; PO: krappe tijd)*
-- **Besturing na ± 0:45** in plaats van ± 1:20. Het nieuws staat al op tv (geen openingsfilmpje, geen "tv aanzetten"-stap), Wanda zegt het in zes korte zinnen en klopt het signaal op Walters hoofd.
+- **Besturing na ± 0:45** in plaats van ± 1:20. Het nieuws staat al op tv (geen apart tv-filmpje en geen "tv aanzetten"-stap; de opening is één korte in-engine scène van 0:25, zie productie.md), Wanda zegt het in zes korte zinnen en klopt het signaal op Walters hoofd.
 - **Gekozen: één coherente scène met drie kettingen.** Van *game-design* nemen we de samenvoeging over: Wiebes wens (tekenfilms) is de reden om in de zetel te zoeken, dus P1 en P2 vormen één ketting en de "tv aanzetten"-stap verdwijnt. Van *puzzels* nemen we de keten "hete koekjes → Wiebes helm als mandje" en de twee doelen van Wanda over: het mandje is geen lijstje-item meer maar een behoefte die Walter zelf ontdekt, en de ovenwant gaat logisch mee als warmhouder (Lottes vraag "waarom draagt een wolf een ovenwant mee?"). De nummering P1–P11 blijft, zodat iedereen dezelfde puzzels bedoelt.
 - **Niet overgenomen: Wanda's lijstje als tekening van Wiebe** (*verhaal*). Er zou dan een tweede tekening naast "Papa de held" komen. Eén tekening met één betekenis (Walters boog) is sterker, en het boekje is al de plaatjes-checklist. Wel overgenomen: het klopsignaal als gebaar (Wanda klopt op zijn hoofd).
 - Flagmodel van scène 1 herschreven met voorwerp-plaatsen (`BASKET`, `MITT`, `REMOTE`) en `CAN_LEAVE_DEN = BASKET_PACKED & HAS_MAP`. `HAS_MITT` (ronde 1 nergens gezet) bestaat niet meer; de ovenwant heeft nu een bron en twee gebruiken.
@@ -635,7 +692,7 @@ Doel: de feedback van de product owner (7/10) en Lotte, 9 jaar (7/10), overtuige
 - De vergissing gebeurt nu doordat Roodkapje vraagt waar híj naartoe gaat, wat Wanda's waarschuwing letterlijk maakt. Aan de beek trekt Walter zelf de les; in het slot is hij eerlijk tegen Wiebe. Grootmoeder geeft na de kast één volwassen regel (*"Je sluit nooit iemand op. Als je bang bent, haal je een grote mens."*). Partners mag alleen met oma's toestemming.
 
 **P10: visueel waterdicht** *(PO-punt 3)*
-- Kostuum aangepast zodat elke vraag klopt met wat je ziet: rood puntje met kwastje onder de muts (en de vraag wordt *"RODE KAP onder je muts"*), een piepklein handje met potlood uit de mouw, voeten mét rode schoentjes die onder het te korte deken uitsteken. Pruik, sloffen en breiwerk zijn de afleiders.
+- Kostuum aangepast zodat elke vraag klopt met wat je ziet: rood puntje met kwastje onder de muts (in ronde 3 werd de vraag *"rood puntje met een kwastje onder je muts"*), een piepklein handje met potlood uit de mouw, voeten mét rode schoentjes die onder het te korte deken uitsteken. Pruik, sloffen en breiwerk zijn de afleiders.
 - Bekijken stelt nu meteen de vraag (één klik per detail, sneller), `Q_ASKED` telt gestelde vragen.
 
 **Hulp en extra's** *(Lotte: te veel voorzeggen, meer gekke dingen, geheimpje; PO: race geen nederlaag)*

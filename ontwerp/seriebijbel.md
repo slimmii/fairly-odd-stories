@@ -17,7 +17,7 @@ Hoort bij het hoofdontwerp in [`README.md`](../README.md).
 
 | Personage | Rol in de reeks | Vaste gag |
 |---|---|---|
-| **Walter Wolf** | Hoofdpersonage, speelbaar. Wil naar zijn zetel, wordt tegen wil en dank een held. | Zetelscore op alles. Cardigan, pantoffels. Draagt vanaf sprookje 2 (eventueel) de sokkencape. |
+| **Walter Wolf** | Hoofdpersonage, speelbaar. Wil naar zijn zetel, wordt tegen wil en dank een held. | Zetelscore op alles. Cardigan, pantoffels. Geen sokkencape in vervolgafleveringen (zie hieronder). |
 | **Roodkapje** | Partner (mag mee met toestemming van oma). Vragen, notities, te snel conclusies. | *"Waarom?"* en *"Genoteerd."* Komt in elke aflevering ergens "toevallig" al aan. |
 | **Wanda Wolf** | Thuisbasis en brein van het wolvennetwerk. Geeft de opdracht. | Zegt alles in zo weinig mogelijk woorden. |
 | **Wiebe** | Het hart. Vraagt telkens of papa al een held is. | Belt op het einde van elke aflevering (draaitelefoon of iets dat in het sprookje past). |
@@ -26,17 +26,21 @@ Hoort bij het hoofdontwerp in [`README.md`](../README.md).
 | **De Jager** | De dader van de hele reeks, nooit eng. Elke aflevering zie je iets meer van hem. | *"HATSJOE!"* en een rode zakdoek, telkens met een geborduurde aanwijzing naar het volgende sprookje. |
 | **De sok** | Running gag en verzamelobject (5 per aflevering). | Duikt overal op. In de finale blijkt De Jager hem "verzameld" te hebben. |
 
+### Sokken en de cape in de reeks
+
+**Beslissing:** de sokkencape hoort bij sprookje 1 en blijft daar. Walter draagt ze **niet** in vervolgafleveringen, en er gaat **geen state over afleveringen heen** (geen import van saves, geen overlay in de filmpjes van een vervolg). Elke aflevering heeft haar eigen vijf sokken en haar eigen kleine sokkenbeloning die binnen die aflevering blijft (bv. een sokkenmuts in Hans en Grietje). Dat houdt elke aflevering los speelbaar en los verkoopbaar (zie [productie](productie.md#technische-uitgangspunten)). Een knipoog mag wel: in sprookje 2 hangt de cape aan de kapstok in het hol (*"Te warm voor de zomer."*), voor iedereen, ook wie ze niet verdiende.
+
 ## Formule per aflevering
 
 - **± 15 minuten, 5 scènes, ± 11 puzzels**, één denkpiek per scène en de grootste in de finale.
 - **Opening:** Wolf-TV meldt een nieuw spoor; Wanda geeft in een paar zinnen het doel. Besturing binnen de minuut.
 - **De cliënt:** de "slechterik" van het sprookje is verdacht en onschuldig. Walter herkent zichzelf in hem of haar.
 - **Het omgekeerde sprookjesmoment:** één beroemde scène uit het origineel wordt binnenstebuiten gekeerd (in sprookje 1: *"Grootmoeder, wat heb jij...!"* gesteld door de wolf).
-- **"Ondertussen..."**: een kort speelbaar moment (± 40 s) als een ander personage (Roodkapje, of de cliënt). Altijd overslaanbaar, altijd eerste op de schraplijst, en het verklapt nooit de twist.
+- **"Ondertussen..."**: een kort speelbaar moment (± 45 s) als een ander personage (Roodkapje, of de cliënt), met **één klein slim moment** waarin de vaste truc van dat personage niet werkt (in sprookje 1: vragen werken niet op een slapende eend). Nooit faalbaar, altijd overslaanbaar, en het verklapt nooit de twist. Het staat op de schraplijst, maar niet bovenaan.
 - **Een wauw-moment** in de finale, met een muzikaal thema dat vooraf wordt geplant.
 - **Afsluiting vóór de cliffhanger:** er wordt iets opgelost (iemand vrij, iemand vrijgepleit, een wolf terug), daarna één nieuwe aanwijzing over De Jager.
 - **Wiebe belt,** Walter is eerlijk over wat er gebeurd is.
-- **Vaste extra's:** 5 sokken, gekke voorwerp-combinaties, zetelscores, minstens vier bekijk-grappen per scène.
+- **Vaste extra's:** 5 sokken (nooit definitief te missen: waarschuwing vóór elk punt zonder terugkeer, de laatste gegarandeerd), gekke voorwerp-combinaties, zetelscores, minstens vier bekijk-grappen per scène.
 - **Hulpniveaus** Speurneus en Meesterdetective, zelfde puzzels.
 
 ## Boog over de reeks
@@ -62,18 +66,19 @@ De Jager is een eenzame verzamelaar die "vergeten" is dat wolven ook een thuis h
 
 ## Oudertoets en waarden
 
-**Uitgangspunt:** de grap mag blijven, maar het spel geeft heldere signalen, telkens in één zin en zonder te preken. Een volwassene in het verhaal zegt de regel; de kinderen in het verhaal trekken zelf de les.
+**Uitgangspunt:** de grap mag blijven, maar het spel geeft heldere signalen, telkens kort en **zonder te preken**. Niemand houdt een les: de regel komt uit een grappige dialoog of een personage ontdekt hem zelf (Roodkapje schrijft hem op, Walter doet zichzelf na). Ouders vinden de waarden voluit op de ouderpagina. Lotte (9): *"Ik weet dat al, dat zegt de juf ook."* Daarom hoogstens één keer per regel, en altijd met een grap.
 
 | Regel | Hoe in sprookje 1 |
 |---|---|
-| **Ga nooit mee met vreemden** | Walter weigert: *"Je gaat nooit mee met vreemden. Ook niet met lieve wolven in pantoffels."* Roodkapje loopt niet mee. Walter lokt haar nergens heen; het bloemenidee is van haarzelf, op een pad. |
-| **Vertel vreemden niet waar je naartoe gaat** | Walters vergissing is de oorzaak van de race; aan de beek: *"Wanda had gelijk."* |
+| **Ga nooit mee met vreemden** | Walter weigert: *"Nee. Jij kent mij niet. Ik ben een vreemde."* / *"Vreemden hebben ook pantoffels."* Roodkapje trekt zelf de conclusie en schrijft ze op. Ze loopt niet mee. Walter lokt haar nergens heen; het bloemenidee is van haarzelf, op een pad dat op de kaart staat (het sluippad). |
+| **Geen cadeaus van vreemden** | Roodkapje weigert de koekjes (*"Van een vreemde wolf? Mama zegt: nooit."*). Het mandje *leent* ze en schrijft het op; in P11 geeft ze het terug. |
+| **Vertel vreemden niet waar je naartoe gaat** | Walters vergissing is de oorzaak van de race; aan de beek doet hij zichzelf na: *"...Tegen een vreemde. Met een notitieboekje."* |
 | **Eerlijk zijn lost het op** | *"Ik ben de dader niet. Ik ben gewoon Walter."* Tegen Wiebe: *"Ja. Met één. Het is goed afgelopen."* |
-| **Je sluit nooit iemand op** | Grootmoeder: *"Je sluit nooit iemand op. Als je bang bent, haal je een grote mens."* Roodkapje zegt sorry. |
+| **Je sluit nooit iemand op** | Grootmoeder vraagt alleen: *"Wie beschermt mij tegen jouw sleutel?"* Roodkapje vindt de regel zelf terug in haar boekje: *"Als je bang bent, haal je een grote mens. Je steekt de grote mens niet in de kast."* Ze zegt sorry. Oma moppert verstaanbaar in de kast (boos, niet bang). |
 | **Toestemming van een volwassene** | Partners alleen als oma het goedkeurt: *"Toegestaan. Als je om vijf uur thuis bent."* Dat blijft de regel in de hele reeks. |
 | **Niemand raakt gewond** | De verdwenen wolven zijn veilig en vervelen zich; De Jager vangt niemand in beeld en is komisch. |
 
-**Altijd:** niets bloederigs, niemand vastgebonden, geen echte bedreiging, geen slechterik die eng blijft. Dreiging is groot van silhouet maar klein van inhoud (het piepkleine hoofdje van De Jager).
+**Altijd:** niets bloederigs, niemand vastgebonden of gekneveld (wie ergens in zit, praat vrij en verstaanbaar), geen echte bedreiging, geen slechterik die eng blijft. Dreiging is groot van silhouet maar klein van inhoud (het piepkleine hoofdje van De Jager).
 
 ## Taalkeuze
 
