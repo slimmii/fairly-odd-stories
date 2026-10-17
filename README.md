@@ -69,7 +69,7 @@ Walter is een grappige valler, maar hij valt **niet om de haverklap**. Lotte (9)
 | # | Val | Wat je ziet | Duur |
 |---|---|---|---|
 | V1 | **Struikelen** | Walter haakt achter zijn pantoffel, maait met zijn armen en belandt op zijn zitvlak | 1,5 s |
-| V2 | **Plat op de snuit** | *Floep*, een stofwolkje, en hij staat meteen weer recht (variant: duik in een breimand) | 2,5 s |
+| V2 | **Buikschuiver** | Hij glijdt zacht op zijn buik als een slee, armen vooruit, kin omhoog (niets raakt neus of hoofd); *zoeffff*, een stofwolkje, en hij staat meteen weer recht (variant: duik in een breimand) | 2,5 s |
 | V3 | **Plons** | Hij valt in het water, drijft drie tellen mee als een badeend en klautert terug op **dezelfde** oever, met natte pantoffels | 3 s (daarna 1,5 s) |
 | — | **Bijna!** | Walter wankelt (het begin van V1), vangt zich op en kijkt trots: *"Ha. Niet deze keer."* De verrassing is dat hij níét valt. | 1 s (hergebruik, geen nieuwe animatie) |
 
@@ -209,7 +209,7 @@ Dit is de enige scheetgrap van het spel: een speelgoedgrap van Wiebe. Het geluid
 
 - Praat Walter terwijl het nieuws loopt, dan wacht Ursula en kijkt ze opzij. De eerste keer: *"...Ik wacht wel."*
 - Tijdens het nieuws kan je de zetel (P1) en alle bekijk-grappen al doen. Klik je op Wanda, Wiebe, de lade, de oven of de deur, dan springt het nieuws meteen naar zijn laatste zin. Zo mist niemand waarom Walter op pad gaat, en niemand moet wachten.
-- **Na "kans op zakdoeken"** (besturing ± 0:04 uit): *"Zakdoeken?!"* Walter draait zich naar de tv, struikelt over zijn pantoffel en ligt plat op zijn snuit (V2, zie *Slapstick*). *"Zetelscore van de grond: drie."* Zijn pantoffels wiebelen één keer na: vanaf nu kan het kind er zelf op klikken (zie *De pantoffels*).
+- **Na "kans op zakdoeken"** (besturing ± 0:04 uit): *"Zakdoeken?!"* Walter draait zich naar de tv, struikelt over zijn pantoffel en maakt een buikschuiver over het tapijt (V2, zie *Slapstick*). *"Zetelscore van de grond: drie."* Zijn pantoffels wiebelen één keer na: vanaf nu kan het kind er zelf op klikken (zie *De pantoffels*).
 
 **Wanda (in-engine, 0:18, telegramstijl):** *"Walter."* Hij wandelt vanzelf naar haar toe. *(Twee maten van het spionnenthema.)*
 > **Wanda:** "Grootmoeder. Spionne. Weet alles."
@@ -407,7 +407,7 @@ Bekijk het mandje door de kier: *"Hé... dat lijkt op MIJN mandje."*
 - Klik op de deur: Walter klopt gewoon. Een héél hoge oma-stem: *"Er is niemand thuis! ...Behalve oma. Dat ben ik. Ga weg, liefje."* Walter: *"Hmm. Wanda klopte op een speciale manier. Op de tafel."*
 - **Oplossing:** gebruik het **briefje** op de deur (of klik op de deur nadat je het briefje bekeken hebt). Twee grote knoppen verschijnen: een **kleine poot** (klop) en een **grote poot** (BONK). Bovenaan staat het patroon **● ● ⬤**. Het gaat om de **volgorde**, niet om tempo of kracht.
   - Elke klop geeft een visuele golf (en een trilling op tablet).
-  - **Fout = grap met informatie (een slim moment, geen val):** de nep-oma verspreekt zich van achter de deur: *"Fout klopje, liefje! ...Euh. Er is niemand thuis."* Walter: *"Een fout klopje? Dan bestaat er ook een goed."* Het briefje in de hoek licht op en speelt het patroon voor (*klop, klop, BONK*). Vanaf de tweede fout zegt ze alleen nog *"Niemand thuis, liefje!"* en speelt het briefje het patroon. Opnieuw kan altijd.
+  - **Fout = grap met informatie (een slim moment, geen val):** de nep-oma verspreekt zich van achter de deur: *"Dat klopje ken ik niet, liefje! ...Euh. Er is niemand thuis."* Walter: *"Ze kent dat klopje niet? Dan bestaat er een goed."* Het briefje in de hoek licht op en speelt het patroon voor (*klop, klop, BONK*). Vanaf de tweede fout zegt ze alleen nog *"Niemand thuis, liefje!"* en speelt het briefje het patroon. Opnieuw kan altijd.
 - **Na het juiste signaal (in het spel, 0:10):** stilte. Dan, gedempt en van dieper in het huis: **⬤ ● ●** (*BONK, klop, klop*), met één basnoot van het spionnenthema. Dat is de echte oma, vanuit de kast. Walter: *"Dat klopje kwam niet van achter de deur. Raar."*
   > **"Grootmoeder"** *(heel gretig)*: "Een geheim klopje...! Kom maar binnen, liefje! Trek maar aan het touwtje!"
 
@@ -848,7 +848,7 @@ Doel: Lottes wensen (9/10) voorop (*"Ik geef een 9, omdat ik slim zijn leuker vi
 
 **1. Slapstick slimmer, niet meer** *(Lotte: "wel tien keer", "ja, ja, weer"; Mats: "een knop om Walter te laten vallen")*
 - Van ± 10 vallen naar **één verplichte val** (de opening) plus een plons per foute plank. **V4 (bonk tegen neus of hoofd) is geschrapt**, net als Walters duik in het slot.
-- In de plaats komen slimme of grappige reacties van anderen: bij P3 telt **Wanda** mee zonder op te kijken (*"Eén." "Twee." "Walter. Familie."*); bij P4 **wuift de ovenwant** naar Walter; bij P8 **verspreekt de nep-oma zich** (*"Fout klopje, liefje! ...Euh."*, en Walter besluit: *"Dan bestaat er ook een goed."*); de brievenbus-sok springt eruit als een **koekoek**; de waarom-teller geeft een **Bijna!** (hij valt níét: Lottes "verrassing").
+- In de plaats komen slimme of grappige reacties van anderen: bij P3 telt **Wanda** mee zonder op te kijken (*"Eén." "Twee." "Walter. Familie."*); bij P4 **wuift de ovenwant** naar Walter; bij P8 **verspreekt de nep-oma zich** (*"Dat klopje ken ik niet, liefje! ...Euh."*, en Walter besluit: *"Dan bestaat er een goed."*); de brievenbus-sok springt eruit als een **koekoek**; de waarom-teller geeft een **Bijna!** (hij valt níét: Lottes "verrassing").
 - **De plons blijft** (Lottes en Mats' favoriet), nu met een vis die de plons prachtig vindt en applaudisseert.
 - **De pantoffels** (Mats' knop, zonder nieuwe knop): klik op Walters pantoffels en hij struikelt, wanneer het kind wil. Hoogstens drie keer per scène (V1, V2, *Bijna!*), met een zetelscore per scène, daarna *"Mijn pantoffels hebben pauze."* Geen nieuwe animaties.
 - Elke scène heeft nu een eigen zetelscore van de grond (huisje en oma's kamer zijn nieuw).
@@ -883,6 +883,8 @@ Doel: Lottes wensen (9/10) voorop (*"Ik geef een 9, omdat ik slim zijn leuker vi
 - De emmer al bij Wiebe en Wanda kan niet zonder extra scope (hol en P9 openbreken, nieuwe animaties). Wel: **radio + emmer** (*"Papa? Zit je in een put? ...Cool. Over."*, één regel, laag *zou*). In sprookje 2 werkt het speelvoorwerp (Wiebes vergiet) vanaf de eerste scène, ook op Wanda.
 
 **Bewust NIET gedaan:** de emmer vroeger in het spel (scope, zie hierboven); meer valplekken als verplichte vallen (Mats: mist, Berts hout): die kan hij nu zelf maken met de pantoffels; huilen bij Roodkapje (Mats): dat zou een tweede huilbron worden; het slot interactief maken (De Jagers hoed wegklikken blijft in het museum).
+
+**Na de PO-controle van ronde 5:** V2 "plat op de snuit" wordt een **buikschuiver** (niets raakt neus of hoofd, zoals de regel belooft); P8-zin wordt *"Dat klopje ken ik niet, liefje!"* (Roodkapje kent de code niet); de seriebijbel citeert de nieuwe zin van Walter tegen Wiebe. Nog open, te meten in het papieren prototype: het slot van 0:40 (realistisch ± 0:45), en of Roodkapjes extra opnamesessie binnen de 5 studiodagen valt.
 
 ## Wijzigingslog ronde 4 (grappiger, sneller, meer Wiebe)
 
