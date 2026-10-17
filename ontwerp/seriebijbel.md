@@ -17,10 +17,10 @@ Hoort bij het hoofdontwerp in [`README.md`](../README.md).
 
 | Personage | Rol in de reeks | Vaste gag |
 |---|---|---|
-| **Walter Wolf** | Hoofdpersonage, speelbaar. Wil naar zijn zetel, wordt tegen wil en dank een held. | Zetelscore op alles, ook op de grond als hij valt. Een grappige, pijnloze valler (sokjes rond zijn hoofd, meteen weer recht). Cardigan, pantoffels. Geen sokkencape in vervolgafleveringen (zie hieronder). |
+| **Walter Wolf** | Hoofdpersonage, speelbaar. Wil naar zijn zetel, wordt tegen wil en dank een held. | Zetelscore op alles, ook op de grond als hij valt. Een grappige, pijnloze valler, met mate (sokjes rond zijn hoofd, meteen weer recht; het kind kan hem zelf laten struikelen via zijn pantoffels). Cardigan, pantoffels. Geen sokkencape in vervolgafleveringen (zie hieronder). |
 | **Roodkapje** | Partner (mag mee met toestemming van oma). Vragen, notities, te snel conclusies. | *"Waarom?"* en *"Genoteerd."* Komt in elke aflevering ergens "toevallig" al aan. |
 | **Wanda Wolf** | Thuisbasis en brein van het wolvennetwerk. Geeft de opdracht. | Zegt alles in zo weinig mogelijk woorden. |
-| **Wiebe** | Het hart. Vraagt telkens of papa al een held is. Blijft altijd veilig thuis. | Meldt zich op het einde van elke aflevering, met iets dat in het sprookje past. In sprookje 1 is dat de **Ridder-radio** (een speelgoedwalkie), waarmee hij ook onderweg overal één zin zegt. |
+| **Wiebe** | Het hart. Vraagt telkens of papa al een held is. Is nooit alleen onderweg: hij blijft veilig thuis, of hij gaat mee **met toestemming en met Wanda erbij** (voor het eerst in sprookje 2, zie hieronder). | Meldt zich op het einde van elke aflevering, met iets dat in het sprookje past. In sprookje 1 is dat de **Ridder-radio** (een speelgoedwalkie), waarmee hij ook onderweg overal één zin zegt. In sprookje 2 is hij er echt, met zijn **vergiet** als helm. |
 | **Grootmoeder** | Gepensioneerde spionne; bron van informatie, en de volwassene die "ja" moet zeggen. | Breit geheime boodschappen. Praat alleen voor koekjes. |
 | **Uil Ursula & Inspecteur Das** | Wolf-TV: het nieuws dat elke aflevering op gang trekt. | Ursula's weerbericht klopt altijd, maar raar. Das verdenkt steeds de verkeerde. |
 | **De Jager** | De dader van de hele reeks, nooit eng. Elke aflevering zie je iets meer van hem. | *"HATSJOE!"* en een rode zakdoek, telkens met een geborduurde aanwijzing naar het volgende sprookje. |
@@ -39,10 +39,10 @@ Hoort bij het hoofdontwerp in [`README.md`](../README.md).
 - **"Ondertussen..."**: een kort speelbaar moment (± 45 s) als een ander personage (Roodkapje, of de cliënt), met **één klein slim moment** waarin de vaste truc van dat personage niet werkt (in sprookje 1: vragen werken niet op een slapende eend). Nooit faalbaar, altijd overslaanbaar, en het verklapt nooit de twist. Het staat op de schraplijst, maar niet bovenaan.
 - **Een wauw-moment** in de finale, met een muzikaal thema dat vooraf wordt geplant.
 - **Afsluiting vóór de cliffhanger:** er wordt iets opgelost (iemand vrij, iemand vrijgepleit, een wolf terug), daarna één nieuwe aanwijzing over De Jager.
-- **Wiebe meldt zich** (in sprookje 1 via de Ridder-radio), Walter is eerlijk over wat er gebeurd is.
-- **Slapstick en chaos:** één herbruikbaar valsysteem (struikelen, plat op de snuit, plons, bonk; pijnloos, met sokjes in plaats van sterretjes). Een fout is altijd een grap die informatie geeft. Een huilknop en één speelvoorwerp (in sprookje 1 de emmer) hebben één reactie per personage of plek. Chaos zet nooit een puzzelflag.
-- **Bonus na de aftiteling:** 60–90 s speelbaar bij De Jager (in sprookje 1: het Griezelmuseum), met één klein denkstapje, niet faalbaar, zonder state naar de volgende aflevering.
-- **Vaste extra's:** 5 sokken (nooit ongemerkt te missen: waarschuwing vóór elk punt zonder terugkeer, de laatste gegarandeerd), gekke voorwerp-combinaties, zetelscores, minstens vier bekijk-grappen per scène.
+- **Wiebe meldt zich** (in sprookje 1 via de Ridder-radio, in sprookje 2 in levenden lijve), Walter is eerlijk over wat er gebeurd is.
+- **Slapstick en chaos:** één herbruikbaar valsysteem (struikelen, plat op de snuit, plons, en *Bijna!*: hij valt níét; pijnloos, met sokjes in plaats van sterretjes). **Slim gedoseerd:** hoogstens één of twee verplichte vallen per aflevering, elk valtype hoogstens een paar keer, nooit iets tegen neus of hoofd en nooit een pijnzin. Wie meer wil, klikt op **Walters pantoffels** (hoogstens drie struikels per scène, daarna *"Mijn pantoffels hebben pauze."*). Een fout is altijd een grap die informatie geeft, liefst een reactie van iemand anders of een slimme ontdekking in plaats van een val. Een huilknop en één speelvoorwerp (in sprookje 1 de emmer) hebben één reactie per personage of plek en daarna een generieke. Chaos werkt alleen in vrij spel (nooit tijdens filmpjes, dialogen of keuzes), komt nooit op een plek waar Walter niet is, en zet nooit een puzzelflag. Geen nieuwe knoppen: de huilknop is het enige chaosknopje.
+- **Bonus na de aftiteling:** 60–90 s speelbaar bij De Jager (in sprookje 1: het Griezelmuseum), met één klein denkstapje, niet faalbaar, zonder state naar de volgende aflevering. **Walter is er nooit bij** (geen stem, geen huilknop): het kind kijkt als onzichtbare bezoeker, zodat Walter pas in sprookje 4 ontdekt waar het museum ligt.
+- **Vaste extra's:** 5 sokken (nooit ongemerkt te missen: waarschuwing vóór elk punt zonder terugkeer, de laatste gegarandeerd), gekke voorwerp-combinaties, zetelscores, minstens vier bekijk-grappen per scène (drie als de eerste schrapknop nodig is).
 - **Hulpniveaus** Speurneus en Meesterdetective, zelfde puzzels.
 
 ## Boog over de reeks
@@ -51,7 +51,7 @@ De Jager is een eenzame verzamelaar die "vergeten" is dat wolven ook een thuis h
 
 | # | Sprookje | De "slechterik" (cliënt) | Wat we zien van De Jager | Wolf terug |
 |---|---|---|---|---|
-| 1 | **Roodkapje** – *De Zaak van de Rode Zakdoek* | Walter zelf | Silhouet aan het raam, piepklein hoofdje; van achteren in het speelbare museum na de aftiteling | – (we weten wie het is en dat ze veilig zijn) |
+| 1 | **Roodkapje** – *De Zaak van de Rode Zakdoek* | Walter zelf | Silhouet aan het raam, piepklein hoofdje; van achteren in het speelbare museum na de aftiteling (zonder Walter) | – (we weten wie het is en dat ze veilig zijn) |
 | 2 | **Hans en Grietje** – *De Zaak van het Afgeknabbelde Huis* | De heks, een gepensioneerde bakster wier huis elke nacht wordt opgegeten | Zijn laarzen en een kaartje: "Griezelmuseum, opening binnenkort" | Wolf 1 (zat in de oven, voor de warmte) |
 | 3 | **De Drie Biggetjes** – *De Zaak van de Weggeblazen Huisjes* | Walters neef Wolfgang, die geen huisjes omblaast maar **hooikoorts** heeft | Zijn hoed en zijn stem | Wolf 2 en 3 |
 | 4 | **Sneeuwwitje** – *De Zaak van de Roddelende Spiegel* | De koningin, die de appel alleen wilde laten keuren. De spiegel roddelt alles door, ook waar het museum ligt. | Zijn gezicht, in de spiegel | Wolf 4 |
@@ -64,6 +64,12 @@ De Jager is een eenzame verzamelaar die "vergeten" is dat wolven ook een thuis h
 - **Het omgekeerde sprookjesmoment:** niet de heks maar Hans en Grietje knabbelen. Ze zijn verdwaald en hongerig, en Grietje heeft een systeem: "Elke nacht één dakpan. Niemand merkt het." Ze zijn geen dieven om te straffen, wel kinderen die sorry moeten zeggen en helpen herbouwen.
 - **Walter in de verleiding** (Lottes wens): het huis is van koek, en Walter is een wolf. Een running gag waarin hij telkens bijna een hap neemt: *"Eén hapje. Voor het onderzoek."* De Das verdenkt dan natuurlijk Walter.
 - **"Ondertussen..."**: je speelt even de heks, die probeert haar huis 's nachts te bewaken en in slaap valt in haar schommelstoel.
+- **Wiebe gaat echt mee** (Lottes wens), met zijn **vergiet** als helm. Ouderproof gemotiveerd:
+  - **Toestemming en een volwassene erbij:** de bakster is een oude vriendin van Wanda (ze ruilen al jaren koekjesrecepten), dus **Wanda gaat mee** en Wiebe vraagt het zelf: *"Mag ik mee?"* **Wanda:** *"Ja. Hand vast. Vergiet op."* Zo is het geen uitzondering op de regel, maar de regel zelf: mee met een grote mens die je kent, met toestemming.
+  - **Nooit alleen, nooit bij vreemden:** Wiebe is altijd in beeld naast Wanda of Walter. Met Hans en Grietje praat hij alleen als Wanda erbij is. De oven blijft uit (daar zat alleen wolf 1, voor de warmte).
+  - **Wat hij doet:** zijn vergiet is een echt speelvoorwerp. Hij zeeft er de koekkruimels mee die het spoor van de knabbelaars tonen (een plaatjespuzzel), en hij zet hem op iedereen (de emmer-regel: één reactie per personage). Hij vraagt nog steeds of papa al een held is.
+  - **Productie:** Wiebe krijgt een loopanimatie en een volg-gedrag (dezelfde rig); Wanda heeft in het bos maar twee animaties nodig (lopen, praten), omdat ze vooral naast de bakster blijft staan. Het einde van de aflevering heeft dus geen radio-inzetje: Wiebe staat er gewoon bij.
+  - **Mats' wens** (de emmer bij Wiebe en Wanda) kan hier vanzelf: het speelvoorwerp van sprookje 2 is Wiebes vergiet, het werkt vanaf de eerste scène, en Wanda en Walter krijgen er elk een eigen reactie op.
 - **Wolf 1** zat in de grote oven (uit, en lekker warm) en was ontsnapt uit het museum. Hij vertelt dat De Jager op tournee is "bij drie biggetjes met strooien huisjes": haak naar sprookje 3.
 
 ## Oudertoets en waarden
@@ -76,16 +82,16 @@ De Jager is een eenzame verzamelaar die "vergeten" is dat wolven ook een thuis h
 | **Geen cadeaus van vreemden** | Roodkapje weigert de koekjes (*"Van een vreemde wolf? Mama zegt: nooit. Genoteerd: niet aannemen."*). Het mandje *leent* ze en schrijft het op; in P11 geeft ze het terug. |
 | **Vertel vreemden niet waar je naartoe gaat** | Walters vergissing is de oorzaak van de race; aan de beek doet hij zichzelf na: *"...Tegen een vreemde. Met een notitieboekje."* |
 | **Eerlijk zijn lost het op** | *"Ik ben de dader niet. Ik ben gewoon Walter."* Tegen Wiebe: *"Ja. Met één. Het is goed afgelopen."* |
-| **Je sluit nooit iemand op** | Grootmoeder vraagt alleen: *"Wie beschermt mij tegen jouw sleutel?"* Roodkapje vindt de regel zelf terug in haar boekje: *"Als je bang bent, haal je een grote mens. Je steekt de grote mens niet in de kast."* Ze zegt sorry. Oma moppert verstaanbaar in de kast (boos, niet bang). |
-| **Toestemming van een volwassene** | Partners alleen als oma het goedkeurt: *"Toegestaan. Als je om vijf uur thuis bent."* Dat blijft de regel in de hele reeks. |
+| **Je sluit nooit iemand op** | Grootmoeder zegt alleen: *"Verstoppen was mijn idee. Opsluiten niet."* Roodkapje vindt de regel zelf terug in haar boekje: *"Als je bang bent, haal je een grote mens. Je steekt de grote mens niet in de kast."* Ze zegt één keer sorry. Oma moppert verstaanbaar in de kast (boos, niet bang). |
+| **Toestemming van een volwassene** | Roodkapje vraagt het zelf aan haar oma: *"Partners? ...Oma, mag het?"* *"Toegestaan. Om vijf uur thuis."* Dat blijft de regel in de hele reeks, ook voor Wiebe (in sprookje 2 gaat hij mee met Wanda). |
 | **Niemand raakt gewond** | De verdwenen wolven zijn veilig en vervelen zich; De Jager vangt niemand in beeld en is komisch. |
-| **Humor zonder pijn of pesten** | Walter valt alleen over zijn eigen pantoffels, een gladde steen of een plank die niet past; niemand duwt hem, hij heeft geen pijn en staat meteen recht. Hoogstens één toiletgrap per aflevering, als speelgoedgrap (in sprookje 1 Wiebes scheetkussen: het geluid komt uit een kussen, nooit uit een personage, en Wanda pakt het meteen af). Schrikken is wederzijds: bij BOE wint de nep-oma de derde ronde. |
+| **Humor zonder pijn of pesten** | Walter valt alleen over zijn eigen pantoffels, een gladde steen of een plank die niet past; niemand duwt hem, hij heeft geen pijn en staat meteen recht. Nooit *"au"* (hoogstens *"oef"*, *"hé"*, *"oei"*), niets slaat tegen zijn neus of hoofd: Wanda klopt het signaal op de tafel, de emmer zakt als een hoed over zijn kop. Wie lacht, lacht om wat er gebeurt, niet om iemand: de vis lacht om de plons. Geen geweldzinnen (*"Wil je me slaan?"* is geschrapt). Hoogstens één toiletgrap per aflevering, als speelgoedgrap (in sprookje 1 Wiebes scheetkussen: het geluid komt uit een kussen, nooit uit een personage, en Wanda pakt het meteen af). Schrikken is wederzijds: bij BOE wint de nep-oma de derde ronde. |
 
 **Altijd:** niets bloederigs, niemand vastgebonden of gekneveld (wie ergens in zit, praat vrij en verstaanbaar), geen echte bedreiging, geen slechterik die eng blijft. Dreiging is groot van silhouet maar klein van inhoud (het piepkleine hoofdje van De Jager).
 
 ## Taalkeuze
 
-**Keuze:** we schrijven het script in **Nederlands met Vlaamse woordkeuze**, zonder dialect en zonder *gij/ge*. De **Vlaamse versie** wordt eerst opgenomen, met een Vlaamse cast: daar wordt getest en zo schrijft het team. Een **Nederlandse versie** is een aparte opname zodra er een NL-markt is. Kinderen horen de andere variant als vreemd en ouders kopen in hun eigen taal, dus twee nasynchronisaties is de norm voor kindertitels. Het script blijft gelijk op ± 30 woorden na; de meerkost zit vooral in de opnamesessies (± 4,5 dagen per taal, zie [productie](productie.md#ingesproken-regels)).
+**Keuze:** we schrijven het script in **Nederlands met Vlaamse woordkeuze**, zonder dialect en zonder *gij/ge*. De **Vlaamse versie** wordt eerst opgenomen, met een Vlaamse cast: daar wordt getest en zo schrijft het team. Een **Nederlandse versie** is een aparte opname zodra er een NL-markt is. Kinderen horen de andere variant als vreemd en ouders kopen in hun eigen taal, dus twee nasynchronisaties is de norm voor kindertitels. Het script blijft gelijk op ± 30 woorden na; de meerkost zit vooral in de opnamesessies (± 5 dagen per taal, zie [productie](productie.md#ingesproken-regels)).
 
 **Taaltags:** elke regel waarin een grap van een woord afhangt, krijgt een tag (`NL-AANPASSEN`, `LOKALISATIE-GRAP`), zodat vertalers ze meteen vinden.
 
